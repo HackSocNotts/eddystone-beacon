@@ -8,7 +8,7 @@
   min-height: 350px;
   background-position: center !important;
   background-size: cover !important;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/img/background.jpg') no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/img/background.jpg') no-repeat !important;
 }
 .masthead .logo.item img {
   margin-right: 1em;
